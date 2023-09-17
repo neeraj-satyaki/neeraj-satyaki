@@ -41,9 +41,6 @@
          <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
       </td>
       <td>
-         <img align="left" alt="Windows Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
-      </td>
-      <td>
          <img align="left" alt="Linux Terminator" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GNOME_Terminal_icon_2019.svg/640px-GNOME_Terminal_icon_2019.svg.png" />
       </td>
       <td>
