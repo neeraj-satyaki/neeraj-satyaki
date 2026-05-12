@@ -3,7 +3,7 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/neeraj-kumar-s-j-0b8957177/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
-    <a href="mailto:neerajkumarsj96@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat-square" alt="Email"></a>
+    <a href="mailto:neeraj.sj@satyaki.co.in"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat-square" alt="Email"></a>
     <a href="https://github.com/neeraj-satyaki"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub"></a>
   </p>
 
