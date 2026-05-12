@@ -68,8 +68,8 @@ Having an astute Knowledge and experience in,
 - Tools: 
   -  <a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
   - <a href="https://github.com/alwinw?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
-  - [![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-  - [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+  - ![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+  - ![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/hritik5102)](https://github.com/hritik5102)
   - <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
 ***************************************************************************************************************
 ### 🔨 Embedded Software Development
